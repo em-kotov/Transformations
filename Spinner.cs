@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Spin : MonoBehaviour
+public class Spinner : MonoBehaviour
 {
     [SerializeField] private float _speed;
 
